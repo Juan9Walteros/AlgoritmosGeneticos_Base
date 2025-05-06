@@ -1,0 +1,9 @@
+README.md
+setup.py
+AlgoritmoGeneticoUdeC_Base.egg-info/PKG-INFO
+AlgoritmoGeneticoUdeC_Base.egg-info/SOURCES.txt
+AlgoritmoGeneticoUdeC_Base.egg-info/dependency_links.txt
+AlgoritmoGeneticoUdeC_Base.egg-info/requires.txt
+AlgoritmoGeneticoUdeC_Base.egg-info/top_level.txt
+lib_AG/Funciones.py
+lib_AG/__init__.py
