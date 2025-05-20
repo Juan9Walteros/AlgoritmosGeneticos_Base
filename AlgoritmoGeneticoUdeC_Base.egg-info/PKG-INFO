@@ -1,14 +1,14 @@
-Metadata-Version: 1.2
+Metadata-Version: 2.1
 Name: AlgoritmoGeneticoUdeC-Base
-Version: 0.2.0
-Summary: Un proyecto base para algoritmos genéticos en Python.
+Version: 0.3.0
+Summary: Una biblioteca de algoritmos genéticos.
 Home-page: https://github.com/Juan9Walteros/AlgoritmosGeneticos_Base.git
 Author: Juan Walteros
 Author-email: juan9walteros@gmail.com
 License: MIT
-Description: UNKNOWN
-Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
 Requires-Python: >=3.6
+Requires-Dist: numpy
+Requires-Dist: pygad

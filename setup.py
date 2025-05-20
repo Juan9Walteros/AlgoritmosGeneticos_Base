@@ -2,8 +2,8 @@ from setuptools import setup, find_packages
 
 setup(
     name="AlgoritmoGeneticoUdeC-Base",
-    version="0.2.0",
-    description="Un proyecto base para algoritmos genéticos en Python.",
+    version="0.3.0",
+    description="Una biblioteca de algoritmos genéticos.",
     url="https://github.com/Juan9Walteros/AlgoritmosGeneticos_Base.git",
     author="Juan Walteros",
     author_email="juan9walteros@gmail.com",
